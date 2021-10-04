@@ -7,7 +7,7 @@ from .forms import AccountForm
 
 
 def index(request):
-    return HttpResponse('my weblog address : www.cafedeep.ir')
+    return HttpResponse('my weblog address : www.cafedeep.ir  /////')
 
 
 def UserAccount(request):
